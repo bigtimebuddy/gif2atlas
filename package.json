@@ -1,0 +1,16 @@
+{
+  "name": "gif2atlas",
+  "version": "1.0.0",
+  "description": "Convert GIF images to atlases",
+  "bin": "index.js",
+  "keywords": ["gif", "atlas", "pixijs", "cli", "export"],
+  "author": "Matt Karl <matt@mattkarl.com>",
+  "license": "MIT",
+  "dependencies": {
+    "atlasify": "^0.4.1",
+    "chalk": "^4.1.0",
+    "fs-extra": "^9.0.1",
+    "gif-extract-frames": "^1.0.2",
+    "minimist": "^1.2.5"
+  }
+}
